@@ -1,1 +1,1 @@
-# audacia_pocketqube
+# AuDacia Qube2space contest entry Arduino code
